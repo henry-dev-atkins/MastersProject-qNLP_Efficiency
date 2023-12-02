@@ -4,6 +4,10 @@ jax==0.4.13
 jaxlib==0.4.13
 sentence_transformers==2.2.2
 qiskit==0.44.3
+jax==0.4.13
+jaxlib==0.4.13
+sentence_transformers==2.2.2
+qiskit==0.44.3
 pytket-qiskit==0.45.0
 numpy==1.26.1
 ipykernel==3.8.1
